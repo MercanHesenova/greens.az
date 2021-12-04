@@ -1,0 +1,797 @@
+@media only screen and (max-width: 1024px) and (min-width: 769px){
+	.owl-text-overlay{
+		top:64% ;
+	}
+	.who p {
+    width: 100%;
+    }
+    .who h2{
+		font-size: 2em;
+    }
+    .service h2, .greentec h2{
+    	font-size: 1.7em;
+    }
+	.greenenr-img, .aqro-img{
+		height: 80%;
+	}
+	.greenenr-text, .aqro-text {
+    padding: 3.6em 1.8em;
+    }
+	.aqro-text p,.greenenr-text p{
+ 	width: 80%;
+   }	
+	.blog{
+ 	margin-bottom: 3rem;
+   }
+   .card-text {
+    height: 165px;
+    padding: 1.5em;
+   }
+	.footer-pd {
+    padding: 3rem 0 1rem;
+     margin: 0rem; 
+   }
+   /*ABOUT PAGE*/
+   .about-img img {
+    width: 17em;
+    height: 17em;
+   }
+   .blockquote-about:after {
+    bottom: 0em;
+   }
+   /*SERVICES PAGE*/
+   .we-offer-area.text-center .item{
+    height: 24em;
+   }
+   /*PROJECTS PAGE*/
+   .projects-bg h2 {
+    margin-top: 1.7em;
+   }
+   .blog-res{
+   	margin-top: -5em!important;
+   }
+   /*GREENS TECHNOLOGY*/
+   
+   .greens-bg h2{
+    margin-top: 1.5em;
+   }
+   .greens-tec  {
+    margin-top: -5em;
+    }
+    .inside-block {
+    padding: 20px;
+   }
+   .outside-block{
+   	margin-bottom: 3em;
+   }
+  /*GREEN ENERGY*/
+  .greenenr-bg h2 {
+    margin-top: 1.5em;
+   }
+   .green-enr{
+   	margin-top: -5em;
+   }
+   .green-enr .who-text, .green-enr .greentec-text, .green-enr .aqro-text{
+    padding: 1.8em .8em;
+   }
+   .green-enr .aqro-text h2{
+    font-size: 2rem;
+   }
+   .green-enr .aqro{
+   	height: 21em;
+   }
+   .green-enr .greentec{
+   	height: 16em;
+   }
+   .green-enr .who{
+   	height: 16em;
+   }
+   /*AQRO*/
+   .aqro-bg h2 {
+    margin-top: 2em;
+   }
+   .agro {
+   	margin-top: -5em;
+   }
+   /*SINGLE PROJECT*/
+   .project-card {
+   	margin-top: -9em;
+   	/*margin-bottom: 2em;*/
+   }
+   .more-card{
+   	margin-top: -5em;
+   	margin-bottom: 2em;
+   }
+   .blockquote-project:before {
+    content: "\201C";
+    left: 0;
+    top: 5.2em;
+    color: #ffca00;
+   }
+   .blockquote-project:after {
+    content: "\201C";
+    right: 0em;
+    bottom: 6em;
+    color: #ffca00;
+   }
+}
+@media only screen and (max-width: 768px) and (min-width: 577px){
+	.owl-text-overlay{
+		top: 50%;
+	}
+	.owl-text-overlay p {
+    padding: 0;
+    width: 65%;
+   }
+   .who{
+   	margin-bottom: 1.5em;
+   }
+  .who h2, .service h2, .greentec h2{
+    font-size: 1.3rem;
+  }
+  .who-text, .service-text, .greentec-text {
+    padding: 1.8em 1.8em;
+  }
+  .who-text p, .service-text p, .greentec-text p{
+  	font-size: small;
+  	width: 100%;
+  }
+  .aqro-text p,.greenenr-text p{
+ 	width: 100%;
+  }	
+  .blog{
+ 	margin-bottom: 3rem;
+  }
+  .card-text{
+ 	height: 185px;
+    padding: 1.5em 0 1em 1em;
+  }
+  .footer-pd{
+ 	margin: 0;
+    padding: 2rem 0rem 1rem;
+  }
+  /*.footer-pd img{
+    height: 107px;
+  }*/
+  .footer-txt h3{
+ 	font-size: 1rem;
+  }
+  .footer-txt a, .footer-txt p, .footer-txt button{
+    font-size: 0.724rem;
+  }
+  .footer-txt .fa{
+ 	font-size: 19px;
+  }
+  /*ABOUT PAGE*/
+  .about-img img {
+    width: 12em;
+    height: 12em;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .about-content a{
+  	margin: 0.5em ;
+  }
+  .about-right h2::before, .about-right h2::after{
+  	width: 2rem;
+  }
+  .blockquote-about {
+    margin: 2rem 0 1rem;
+   }
+   .blockquote-about:before {
+    top: 127px;
+   }
+   .blockquote-about:after {
+    bottom: -0.1em;
+   }
+   /*SERVICES PAGE*/
+   .services-bg h2 {
+    margin-top: 1.5em;
+   }
+   .our-offer-items{
+   	margin-top: -7em;
+   }
+   .we-offer-area.text-center .item{
+   	height: 31em;
+   }
+   .footer-bg .fab, .footer-bg .fa {
+    font-size: 22px;
+    margin-right: 0.3em;
+   }
+   .img-res{
+    height: 78px;
+   }
+   /*PROJECTS PAGE*/
+   .projects-bg h2 {
+    margin-top: 1.7em;
+   }
+   .blog-res{
+   	margin-top: -5em!important;
+   }
+   /*GREENS TECHNOLOGY*/
+   
+   .greens-bg h2{
+    margin-top: 1.5em;
+   }
+   .greens-tec  {
+    margin-top: -8em;
+    }
+    .inside-block {
+    padding: 20px;
+   }
+   .outside-block{
+   	margin-bottom: 3em;
+   }
+  .footer-greentec-bg img{
+    width: 11em;
+    object-fit: contain;
+  }
+  /*GREEN ENERGY*/
+  .greenenr-bg h2 {
+    margin-top: 1.5em;
+   }
+   .green-enr{
+   	margin-top: -5em;
+   }
+   .green-enr .who-text, .green-enr .greentec-text, .green-enr .aqro-text{
+    padding: 1.8em .8em;
+   }
+   .green-enr .aqro-text h2{
+    font-size: 2rem;
+   }
+   .green-enr .aqro{
+   	height: 21em;
+   }
+   .green-enr .greentec{
+   	height: 16em;
+   }
+   .green-enr .who{
+   	height: 16em;
+   }
+   /*AQRO*/
+    .aqro-bg h2::after, .aqro-bg h2::before {
+    display: inline-block;
+    content: "";
+    border-top: .3rem solid #fff;
+    width: 3rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+   .aqro-bg h2 {
+    margin-top: 2em;
+   }
+   .agro {
+   	margin-top: -5em;
+   }
+   .footer-agro-bg img{
+   	width: 12em;
+   	object-fit: contain	;
+   }
+   /*SINGLE PROJECT*/
+   .project-card, .more-card{
+   	margin-top: -8em;
+   	margin-bottom: 2em;
+   }
+   .card-img-blog{
+   	width: 100%;
+   	height: 17em;
+   	object-fit: contain;
+   }
+   .blockquote-project:before {
+    content: "\201C";
+    left: 0;
+    top: 2.9em;
+    color: #ffca00;
+   }
+   .blockquote-project:after {
+    content: "\201C";
+    right: 0em;
+    bottom: 9em;
+    color: #ffca00;
+   }
+   .project-card .card-text{
+   	padding: 2em;
+   }
+}
+@media only screen and (max-width: 577px) and (min-width: 377px){
+	.owl-text-overlay{
+		top: 50%;
+	}
+	.owl-text-overlay p {
+    padding: 0;
+    width: 139%;
+    }
+	.who, .service{
+		margin-bottom: 1em;
+	}
+	.who p,.greentec p{
+	    width: 100%;
+	}
+	.service-text, .greentec-text {
+    padding: 3em 1.8em;
+   }
+	.aqro-text p, .greenenr-text p {
+    width: 100%;
+    }
+	.item-card{
+		margin-bottom: 2em;
+	}
+	.card-text{
+	    padding: 2em 0 0 2em;
+	}
+	.footer-pd{
+		padding: 0;
+	}
+	.footer-pd img{
+		width:16em;
+		object-fit: contain;
+	}
+	.footer-txt{
+		text-align: center!important;
+		margin-bottom: 2em;
+	}
+	/*ABOUT PAGE*/
+	.blockquote-about {
+    margin: 2rem 0 1rem;
+   }
+	.about-right h2::before, .about-right h2::after {
+    display: inline-block;
+    content: "";
+    border-top: .3rem solid #527c6a;
+    width: 2rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+	.blockquote-about:after {
+    content: "\201C";
+    right: 0;
+    bottom: -0.5em;
+    color: #ffca00;
+   }
+   /*SERVICE PAGE*/
+   .services-bg h2 {
+    margin-top: 1.5em;
+   }
+   .services-bg h2::after, .services-bg h2::before {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #fff;
+    width: 2rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+   .item-res{
+   	margin-top: -8em;
+   }
+   .footer-pd img {
+    width: 14em;
+    object-fit: contain;
+    margin: 2em;
+   }
+   .footer-bg .fab, .footer-bg .fa {
+    font-size: 28px;
+    margin-right: .5em;
+    margin-left: 0.5em;
+  }
+  /*PROJECTS PAGE*/
+   .projects-bg h2 {
+    margin-top: 1.7em;
+   }
+   .card-res{
+   	margin-top: -8em;
+   }
+   .projects-bg h2::after, .projects-bg h2::before {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #fff;
+    width: 1rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+   /*GREENS TECHNOLOGY*/
+   .greens-bg h2::after, .greens-bg h2::before {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #fff;
+    width: 1rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+   .greens-bg h2{
+    margin-top: 1.5em;
+   }
+   .greens-tec img {
+    margin-top: -8em;
+    }
+    .inside-block {
+    padding: 20px;
+   }
+   .outside-block{
+   	margin-top: 3em;
+   }
+   /*GREEN ENERGY*/
+   .greenenr-bg h2::after, .greenenr-bg h2::before {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #fff;
+    width: 3rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+   .green-enr img {
+    margin-top: -8em;
+   }
+   .green-enr .outside-block{
+   	margin-bottom: 3em;
+   }
+   /*AQRO*/
+    .aqro-bg h2::after, .aqro-bg h2::before {
+    display: inline-block;
+    content: "";
+    border-top: .3rem solid #fff;
+    width: 3rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+   .aqro-bg h2 {
+    margin-top: 2em;
+   }
+   .agro img{
+   	margin-top: -8em;
+   }
+   /*SINGLE PROJECT*/
+   .project-card{
+   	margin-top: -9em;
+   }
+   .card-img-blog{
+   	width: 100%;
+   	height: 17em;
+   	object-fit: contain;
+   }
+   .blockquote-project:before {
+    content: "\201C";
+    left: 0;
+    top: 2.5em;
+    color: #ffca00;
+   }
+   .blockquote-project:after {
+    content: "\201C";
+    right: 0em;
+    bottom: 0em;
+    color: #ffca00;
+   }
+   .project-card .card-text{
+   	padding: 2em;
+   }
+}
+
+@media only screen and (max-width: 376px) and (min-width: 321px){
+	.owl-text-overlay{
+		top: 50%;
+	}
+	h2.owl-title{
+		font-size: 20px;
+	}
+	.owl-text-overlay p {
+    padding: 0;
+    width: 124%;
+    font-size: 15px;
+   }
+	.who, .service{
+		margin-bottom: 1em;
+	}
+	.who p,.greentec p{
+	    width: 100%;
+	}
+	.who-text{
+    padding: 1.1em 1.8em!important;
+    }
+    .service-text{
+    	padding: 2.1em 1.8em;
+    }
+	.service p{
+		width: 90%;
+	}
+
+	.aqro-text p, .greenenr-text p {
+    width: 100%;
+    }
+	.item-card{
+		margin-bottom: 2em;
+	}
+	.footer-pd{
+		padding: 0;
+	}
+	.footer-pd img{
+		width:13em;
+		object-fit: contain;
+	}
+	.footer-txt{
+		text-align: center!important;
+		margin-bottom: 2em;
+	}
+	.footer-bg .fab, .footer-bg .fa {
+    font-size: 28px;
+    margin-right: .5em;
+    margin-left: 0.5em;
+   }
+	/*ABOUT PAGE*/
+	.about-img img {
+    width: 17em;
+    height: 17em;
+   }
+   .about-right h2::before, .about-right h2::after {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #527c6a;
+    width: 2rem;
+    margin: 0 1rem;
+    transform: translateY(-0.3rem);
+   }
+   .blockquote-about {
+    margin: 2rem 0 1rem;
+   }
+   .blockquote-about:before {
+    content: "\201C";
+    left: 0;
+    top: 128px;
+    color: #ffca00;
+   }
+   .blockquote-about:after {
+    content: "\201C";
+    right: 0;
+    bottom: -0.5em;
+    color: #ffca00;
+   }
+   /*SERVICES PAGE*/
+   .services-bg h2 {
+     margin-top: 1em;
+   }
+   .item-res{
+   	margin-top:-8em ;
+   }
+   .we-offer-area.text-center .item{
+   	height: 22em;
+   }
+   /*PROJECTS PAGE*/
+   .projects-bg h2 {
+    margin-top: 1.5em;
+   }
+   .card-res{
+   	margin-top: -8em;
+   }
+   .projects-bg h2::after, .projects-bg h2::before {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #fff;
+    width: 1rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+   /*GREENS TECHNOLOGY*/
+   .greens-bg h2:before{
+   	display: none;
+   }
+   .greens-bg h2{
+    margin-top: 1.5em;
+   }
+   .greens-tec img {
+    margin-top: -8em;
+    }
+    .inside-block {
+    padding: 20px;
+   }
+   .outside-block{
+   	margin-top: 3em;
+   }
+   /*GREEN ENERGY*/
+   .greenenr-bg h2::after, .greenenr-bg h2::before {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #fff;
+    width: 2rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+   .green-enr img {
+    margin-top: -8em;
+   }
+   .green-enr .outside-block{
+   	margin-bottom: 3em;
+   }
+    /*AQRO*/
+    .aqro-bg h2::after, .aqro-bg h2::before {
+    display: inline-block;
+    content: "";
+    border-top: .3rem solid #fff;
+    width: 2rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+   .agro img{
+   	margin-top: -8em;
+   }
+	.aqro-bg h2 {
+	    margin-top: 2em;
+	}
+	/*SINGLE PROJECT*/
+   .project-card{
+   	margin-top: -9em;
+   }
+   .card-img-blog{
+   	width: 100%;
+   	height: 17em;
+   	object-fit: contain;
+   }
+   .blockquote-project:before {
+    content: "\201C";
+    left: 0;
+    top: 2.5em;
+    color: #ffca00;
+   }
+   .blockquote-project:after {
+    content: "\201C";
+    right: 0em;
+    bottom: 0em;
+    color: #ffca00;
+   }
+   .project-card .card-text{
+   	padding: 2em;
+   }
+}
+@media only screen and (max-width: 372px) and (min-width: 321px){
+	.about-right h2 {
+		font-size: 1.5em;
+  }
+}
+@media only screen and (max-width: 320px){
+	.owl-text-overlay{
+		top: 50%;
+	}
+	h2.owl-title{
+		font-size: 20px;
+	}
+	.owl-text-overlay p {
+    padding: 0;
+    width: 124%;
+    font-size: 15px;
+   }
+	.who, .service{
+		margin-bottom: 1em;
+	}
+	.who p{
+	    width: 100%;
+	}
+	.who-text{
+		padding: 1em 1em;
+	}
+	.aqro-text{
+		padding: 3.5em 1em;
+	}
+	.greenenr-text{
+		padding:5em 1em;
+	}
+	.service-text{
+	    padding: 1.9em 1em;
+	}
+	.greentec-text{
+		padding: .7em 1em;
+	}
+	.aqro-text p,.greenenr-text p {
+     width: 100%;
+    }
+	.item-card{
+		margin-bottom: 2em;
+	}
+	.card-text{
+		padding: 1em 2em;
+	}
+	.footer-pd{
+		padding: 0;
+	}
+	.footer-pd img{
+		width:10em;
+		object-fit: contain;
+	}
+	.footer-txt{
+		text-align: center!important;
+		margin-bottom: 2em;
+	}
+   /*ABOUT PAGE*/
+   .about-img img {
+    width: 16em;
+    height: 16em;
+   }
+   .blockquote-about:before {
+    top: 178px;
+   }
+   .blockquote-about:after {
+    bottom: -0.5em;
+   }
+   .footer-bg .fab, .footer-bg .fa {
+    margin-left: 0.5em!important;
+    margin-right: 0.5em;
+   }
+   /*SERVICES PAGE*/
+   .services-bg h2 {
+    margin-top: 1em;
+   }
+   .item-res{
+   	margin-top:-8em;
+   }
+   .we-offer-area.text-center .item{
+   	height: 26em;
+   }
+   /*PROJECTS PAGE*/
+   .projects-bg h2 {
+    margin-top: 1em;
+   }
+   .card-res{
+   	margin-top: -8em;
+   }
+   /*GREENS TECHNOLOGY*/
+   .greens-bg h2:before{
+   	display: none;
+   }
+   .greens-bg h2{
+    margin-top: 1.3em;
+   }
+   .greens-tec img {
+    margin-top: -8em;
+    }
+    .inside-block {
+    padding: 20px;
+   }
+   .outside-block{
+   	margin-top: 3em;
+   }
+   /*GREEN ENERGY*/
+   .greenenr-bg h2::after, .greenenr-bg h2::before {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #fff;
+    width: 1rem;
+    margin: 0 1rem;
+    transform: translateY(-0.5rem);
+   }
+   .green-enr img {
+    margin-top: -8em;
+   }
+   .green-enr .outside-block{
+   	margin-bottom: 3em;
+   }
+   /*AQRO*/
+   .aqro-bg h2::before{
+   	display: none;
+   }
+   .agro img{
+   	margin-top: -8em;
+   }
+   .aqro-bg h2 {
+    margin-top: 2em;
+   }
+   /*SINGLE PROJECT*/
+   .project-card{
+   	margin-top: -9em;
+   }
+   .card-img-blog{
+   	width: 100%;
+   	height: 17em;
+   	object-fit: contain;
+   }
+   .blockquote-project:before {
+    content: "\201C";
+    left: 0;
+    top: 2.5em;
+    color: #ffca00;
+   }
+   .blockquote-project:after {
+    content: "\201C";
+    right: 0em;
+    bottom: 0em;
+    color: #ffca00;
+   }
+   .project-card .card-text{
+   	padding: 2em;
+   }
+}
